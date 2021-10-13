@@ -1,6 +1,6 @@
 import unittest
 
-from src.sum import sum
+from src.calc import sum
 
 
 class TestSum(unittest.TestCase):
@@ -25,6 +25,7 @@ class TestSum(unittest.TestCase):
         data = "banana"
         with self.assertRaises(TypeError):
             result = sum(data)
+
 
 if __name__ == '__main__':
     unittest.main()
