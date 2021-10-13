@@ -10,5 +10,4 @@ poetry run python src/calc.py
 
 
 ## Dojos
-* [String Calculator]
-(https://codingdojo.org/kata/StringCalculator/)
+* [String Calculator](https://codingdojo.org/kata/StringCalculator/)
